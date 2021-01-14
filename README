@@ -1,0 +1,13 @@
+-*-mode: org -*-
+#+TITLE: hacks-rs
+
+Welcome Stranger,
+
+This repo contains simple programs built with the Rust programming
+language, and using as few dependencies as possible to get the point
+across. They are intended for educational purposes and serve as small
+individual tutorials.
+
+
+- [[file:01-tcp/README][01 - TCP]]
+- [[file:02-udp/README][02 - UDP]]
